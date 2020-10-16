@@ -1,0 +1,26 @@
+{
+  "name": "exameniparcial",
+  "version": "1.0.0",
+  "description": "Examen I Parcial Seminario de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisA3/Examen_I-Parcial_SS.git"
+  },
+  "keywords": [
+    "Examen",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Boris Alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisA3/Examen_I-Parcial_SS/issues"
+  },
+  "homepage": "https://github.com/BorisA3/Examen_I-Parcial_SS#readme"
+}
