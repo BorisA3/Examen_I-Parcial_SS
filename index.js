@@ -1,20 +1,9 @@
 // importar express
 const express = require("express");
-// Importar handlebars como template engine
-//const exphbs = require("express-handlebars");
-// Importar body parser que nos permite acceder al cuerpo de la peticion HTTPP
-//const bodyParser = require("body-parser");
+
 
 // Crear un servidor express
 const app = express();
-
-// Indicar a express utilizar handlebars como template engine
-//app.engine("hbs", exphbs({ defaultLayout: "main", extname: ".hbs" }));
-
-//app.set("view engine", "hbs");
-
-// Habilitar body parse para leer los datos del cuerpo de peticiones POST
-//app.use(bodyParser.urlencoded({ extname: true}));
 
 // Crear una ruta para /
 // Informacion sobre los verbos HTTP
