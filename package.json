@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BorisA3/Examen_I-Parcial_SS/issues"
   },
-  "homepage": "https://github.com/BorisA3/Examen_I-Parcial_SS#readme"
+  "homepage": "https://github.com/BorisA3/Examen_I-Parcial_SS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
